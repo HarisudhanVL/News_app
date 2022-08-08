@@ -45,7 +45,7 @@ All the news in each category is live via [newsapi](https://newsapi.org/) and on
       ![image](https://user-images.githubusercontent.com/68286374/183396146-a1f85d57-0d93-430a-8f04-f6c57906337c.png)
       
       
-     On clicking a specific news, it re-directs to the original page with detailed information.
+     ***On clicking a specific news, it re-directs to the original page with detailed information.***
      
      ![image](https://user-images.githubusercontent.com/68286374/183397468-624799d0-7a20-43c5-ba2b-9af91c1678ca.png)
      ![image](https://user-images.githubusercontent.com/68286374/183397652-fda36dfa-fbb9-4301-b22a-098e41ff6a1e.png)
